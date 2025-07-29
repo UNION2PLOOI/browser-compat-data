@@ -1,5 +1,26 @@
 # @mdn/browser-compat-data release notes
 
+## [v6.0.37](https://github.com/mdn/browser-compat-data/releases/tag/v6.0.37)
+
+July 29, 2025
+
+### Additions
+
+- `javascript.builtins.AsyncDisposableStack.@@asyncDispose` ([#27386](https://github.com/mdn/browser-compat-data/pull/27386))
+- `javascript.builtins.AsyncIterator.@@asyncDispose` ([#27386](https://github.com/mdn/browser-compat-data/pull/27386))
+- `javascript.builtins.DisposableStack.@@dispose` ([#27386](https://github.com/mdn/browser-compat-data/pull/27386))
+- `javascript.builtins.Iterator.@@dispose` ([#27386](https://github.com/mdn/browser-compat-data/pull/27386))
+- `javascript.builtins.SuppressedError.error` ([#27386](https://github.com/mdn/browser-compat-data/pull/27386))
+- `javascript.builtins.SuppressedError.suppressed` ([#27386](https://github.com/mdn/browser-compat-data/pull/27386))
+- `javascript.statements.await_using` ([#27386](https://github.com/mdn/browser-compat-data/pull/27386))
+
+### Statistics
+
+- 5 contributors have changed 19 files with 375 additions and 71 deletions in 6 commits ([`v6.0.36...v6.0.37`](https://github.com/mdn/browser-compat-data/compare/v6.0.36...v6.0.37))
+- 17,688 total features
+- 1,177 total contributors
+- 5,338 total stargazers
+
 ## [v6.0.36](https://github.com/mdn/browser-compat-data/releases/tag/v6.0.36)
 
 July 28, 2025
